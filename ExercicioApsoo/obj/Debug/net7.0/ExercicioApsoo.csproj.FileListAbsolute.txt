@@ -1,0 +1,14 @@
+C:\Users\felip\OneDrive\Documentos\Estudos\Unip\TrabalhosFernando\ADS_DSP17_PSOO_N769785\ExercicioApsoo\bin\Debug\net7.0\ExercicioApsoo.exe
+C:\Users\felip\OneDrive\Documentos\Estudos\Unip\TrabalhosFernando\ADS_DSP17_PSOO_N769785\ExercicioApsoo\bin\Debug\net7.0\ExercicioApsoo.deps.json
+C:\Users\felip\OneDrive\Documentos\Estudos\Unip\TrabalhosFernando\ADS_DSP17_PSOO_N769785\ExercicioApsoo\bin\Debug\net7.0\ExercicioApsoo.runtimeconfig.json
+C:\Users\felip\OneDrive\Documentos\Estudos\Unip\TrabalhosFernando\ADS_DSP17_PSOO_N769785\ExercicioApsoo\bin\Debug\net7.0\ExercicioApsoo.dll
+C:\Users\felip\OneDrive\Documentos\Estudos\Unip\TrabalhosFernando\ADS_DSP17_PSOO_N769785\ExercicioApsoo\bin\Debug\net7.0\ExercicioApsoo.pdb
+C:\Users\felip\OneDrive\Documentos\Estudos\Unip\TrabalhosFernando\ADS_DSP17_PSOO_N769785\ExercicioApsoo\obj\Debug\net7.0\ExercicioApsoo.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\felip\OneDrive\Documentos\Estudos\Unip\TrabalhosFernando\ADS_DSP17_PSOO_N769785\ExercicioApsoo\obj\Debug\net7.0\ExercicioApsoo.AssemblyInfoInputs.cache
+C:\Users\felip\OneDrive\Documentos\Estudos\Unip\TrabalhosFernando\ADS_DSP17_PSOO_N769785\ExercicioApsoo\obj\Debug\net7.0\ExercicioApsoo.AssemblyInfo.cs
+C:\Users\felip\OneDrive\Documentos\Estudos\Unip\TrabalhosFernando\ADS_DSP17_PSOO_N769785\ExercicioApsoo\obj\Debug\net7.0\ExercicioApsoo.csproj.CoreCompileInputs.cache
+C:\Users\felip\OneDrive\Documentos\Estudos\Unip\TrabalhosFernando\ADS_DSP17_PSOO_N769785\ExercicioApsoo\obj\Debug\net7.0\ExercicioApsoo.dll
+C:\Users\felip\OneDrive\Documentos\Estudos\Unip\TrabalhosFernando\ADS_DSP17_PSOO_N769785\ExercicioApsoo\obj\Debug\net7.0\refint\ExercicioApsoo.dll
+C:\Users\felip\OneDrive\Documentos\Estudos\Unip\TrabalhosFernando\ADS_DSP17_PSOO_N769785\ExercicioApsoo\obj\Debug\net7.0\ExercicioApsoo.pdb
+C:\Users\felip\OneDrive\Documentos\Estudos\Unip\TrabalhosFernando\ADS_DSP17_PSOO_N769785\ExercicioApsoo\obj\Debug\net7.0\ExercicioApsoo.genruntimeconfig.cache
+C:\Users\felip\OneDrive\Documentos\Estudos\Unip\TrabalhosFernando\ADS_DSP17_PSOO_N769785\ExercicioApsoo\obj\Debug\net7.0\ref\ExercicioApsoo.dll
