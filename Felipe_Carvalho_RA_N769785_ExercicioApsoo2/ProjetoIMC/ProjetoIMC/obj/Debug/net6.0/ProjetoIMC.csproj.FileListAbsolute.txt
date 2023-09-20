@@ -1,0 +1,14 @@
+C:\Users\felip\OneDrive\Documentos\Estudos\Unip\TrabalhosFernando\ADS_DSP17_PSOO_N769785\Felipe_Carvalho_RA_N769785_ExercicioApsoo2\ProjetoIMC\ProjetoIMC\bin\Debug\net6.0\ProjetoIMC.exe
+C:\Users\felip\OneDrive\Documentos\Estudos\Unip\TrabalhosFernando\ADS_DSP17_PSOO_N769785\Felipe_Carvalho_RA_N769785_ExercicioApsoo2\ProjetoIMC\ProjetoIMC\bin\Debug\net6.0\ProjetoIMC.deps.json
+C:\Users\felip\OneDrive\Documentos\Estudos\Unip\TrabalhosFernando\ADS_DSP17_PSOO_N769785\Felipe_Carvalho_RA_N769785_ExercicioApsoo2\ProjetoIMC\ProjetoIMC\bin\Debug\net6.0\ProjetoIMC.runtimeconfig.json
+C:\Users\felip\OneDrive\Documentos\Estudos\Unip\TrabalhosFernando\ADS_DSP17_PSOO_N769785\Felipe_Carvalho_RA_N769785_ExercicioApsoo2\ProjetoIMC\ProjetoIMC\bin\Debug\net6.0\ProjetoIMC.dll
+C:\Users\felip\OneDrive\Documentos\Estudos\Unip\TrabalhosFernando\ADS_DSP17_PSOO_N769785\Felipe_Carvalho_RA_N769785_ExercicioApsoo2\ProjetoIMC\ProjetoIMC\bin\Debug\net6.0\ProjetoIMC.pdb
+C:\Users\felip\OneDrive\Documentos\Estudos\Unip\TrabalhosFernando\ADS_DSP17_PSOO_N769785\Felipe_Carvalho_RA_N769785_ExercicioApsoo2\ProjetoIMC\ProjetoIMC\obj\Debug\net6.0\ProjetoIMC.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\felip\OneDrive\Documentos\Estudos\Unip\TrabalhosFernando\ADS_DSP17_PSOO_N769785\Felipe_Carvalho_RA_N769785_ExercicioApsoo2\ProjetoIMC\ProjetoIMC\obj\Debug\net6.0\ProjetoIMC.AssemblyInfoInputs.cache
+C:\Users\felip\OneDrive\Documentos\Estudos\Unip\TrabalhosFernando\ADS_DSP17_PSOO_N769785\Felipe_Carvalho_RA_N769785_ExercicioApsoo2\ProjetoIMC\ProjetoIMC\obj\Debug\net6.0\ProjetoIMC.AssemblyInfo.cs
+C:\Users\felip\OneDrive\Documentos\Estudos\Unip\TrabalhosFernando\ADS_DSP17_PSOO_N769785\Felipe_Carvalho_RA_N769785_ExercicioApsoo2\ProjetoIMC\ProjetoIMC\obj\Debug\net6.0\ProjetoIMC.csproj.CoreCompileInputs.cache
+C:\Users\felip\OneDrive\Documentos\Estudos\Unip\TrabalhosFernando\ADS_DSP17_PSOO_N769785\Felipe_Carvalho_RA_N769785_ExercicioApsoo2\ProjetoIMC\ProjetoIMC\obj\Debug\net6.0\ProjetoIMC.dll
+C:\Users\felip\OneDrive\Documentos\Estudos\Unip\TrabalhosFernando\ADS_DSP17_PSOO_N769785\Felipe_Carvalho_RA_N769785_ExercicioApsoo2\ProjetoIMC\ProjetoIMC\obj\Debug\net6.0\refint\ProjetoIMC.dll
+C:\Users\felip\OneDrive\Documentos\Estudos\Unip\TrabalhosFernando\ADS_DSP17_PSOO_N769785\Felipe_Carvalho_RA_N769785_ExercicioApsoo2\ProjetoIMC\ProjetoIMC\obj\Debug\net6.0\ProjetoIMC.pdb
+C:\Users\felip\OneDrive\Documentos\Estudos\Unip\TrabalhosFernando\ADS_DSP17_PSOO_N769785\Felipe_Carvalho_RA_N769785_ExercicioApsoo2\ProjetoIMC\ProjetoIMC\obj\Debug\net6.0\ProjetoIMC.genruntimeconfig.cache
+C:\Users\felip\OneDrive\Documentos\Estudos\Unip\TrabalhosFernando\ADS_DSP17_PSOO_N769785\Felipe_Carvalho_RA_N769785_ExercicioApsoo2\ProjetoIMC\ProjetoIMC\obj\Debug\net6.0\ref\ProjetoIMC.dll

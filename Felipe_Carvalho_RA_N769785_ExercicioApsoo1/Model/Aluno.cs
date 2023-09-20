@@ -16,3 +16,5 @@ public class Aluno : Pessoa
         return $"Olá, meu nome é {this.Nome}, minha turma é a {this.Turma} e tenho {this.Idade} anos.";
     }
 }
+
+public record AlunoDto(string Nome, int Teste);
