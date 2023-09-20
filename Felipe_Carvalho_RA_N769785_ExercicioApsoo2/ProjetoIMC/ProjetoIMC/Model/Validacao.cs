@@ -2,20 +2,26 @@
 
 public class Validacao
 {
-    public static bool ValidarPessoa(Pessoa pessoa)
+    public string Mensagem { get; set; }
+
+    /// <summary>
+    /// Método utilizado para validar a pessoa
+    /// </summary>
+    /// <param name="pessoa"></param>
+    public void ValidarPessoa(Pessoa pessoa)
     {
+        Mensagem = "";
+
         if (pessoa == null)
-            return false;
+            Mensagem = "Pessoa inválida";
 
         if (string.IsNullOrEmpty(pessoa.Nome))
-            return false;
+            Mensagem = "Nome inválido";
 
         if (pessoa.Peso.Equals(default))
-            return false;
+            Mensagem = "Peso inválido";
 
         if (pessoa.Altura.Equals(default))
-            return false;
-
-        return true;
+            Mensagem = "Altura inválida";
     }
 }

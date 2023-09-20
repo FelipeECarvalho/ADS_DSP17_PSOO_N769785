@@ -1,0 +1,42 @@
+<Project>
+  <Name>ProjetoImc</Name>
+  <ProjectItem type="NClass.DiagramEditor.ClassDiagram.Diagram" assembly="NClass.DiagramEditor, Version=2.4.1823.0, Culture=neutral, PublicKeyToken=null">
+    <Name>sem Título</Name>
+    <Language>CSharp</Language>
+    <Entities>
+      <Entity type="Class">
+        <Name>IMC</Name>
+        <Access>Public</Access>
+        <Location left="91" top="29" />
+        <Size width="190" height="235" />
+        <Collapsed>False</Collapsed>
+        <Member type="Method">private static double CalcularIMC()</Member>
+        <Member type="Method">private static string ClassificarFaixaIMC()</Member>
+        <Member type="Method">public static void ClassificarIMC()</Member>
+        <Modifier>None</Modifier>
+      </Entity>
+      <Entity type="Class">
+        <Name>Pessoa</Name>
+        <Access>Public</Access>
+        <Location left="481" top="29" />
+        <Size width="195" height="235" />
+        <Collapsed>False</Collapsed>
+        <Member type="Property">public string Nome { get; set; }</Member>
+        <Member type="Property">public double Altura { get; set; }</Member>
+        <Member type="Property">public double Peso { get; set; }</Member>
+        <Modifier>None</Modifier>
+      </Entity>
+      <Entity type="Class">
+        <Name>Validacao</Name>
+        <Access>Public</Access>
+        <Location left="277" top="349" />
+        <Size width="198" height="216" />
+        <Collapsed>False</Collapsed>
+        <Member type="Property">public string Mensagem { get; set; }</Member>
+        <Member type="Method">public void ValidarPessoa()</Member>
+        <Modifier>None</Modifier>
+      </Entity>
+    </Entities>
+    <Relationships />
+  </ProjectItem>
+</Project>
